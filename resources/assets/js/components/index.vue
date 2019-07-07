@@ -87,7 +87,9 @@
 			<div class="row text-center">
 				
 					<div class="card" style="width: 20rem;">
-		<img class="card-img-top img-thumbnail teamsize" src="/images/Team4.jpeg"  alt="Prince Adesegun Adefemi Adeshida">
+		<v-img class="card-img-top img-thumbnail teamsize" 
+		src="/images/Team4.jpeg"  alt="Prince Adesegun Adefemi Adeshida"
+		:lazy-src="`/images/loading.gif`"></v-img>
 							<div class="card-body">
 							  <h4 class="card-title">Prince Adesegun Adefemi Adeshida</h4>
 							  <p class="card-text">chairman, Board of Directors</p>
@@ -95,7 +97,8 @@
 						  </div>
 
 							<div class="card" style="width: 20rem;">
-								<img class="card-img-top img-thumbnail teamsize" src="/images/Team6.jpeg"  alt="Clement Anifowose MFR">
+								<v-img class="card-img-top img-thumbnail teamsize"
+								:lazy-src="`/images/loading.gif`" src="/images/Team6.jpeg"  alt="Clement Anifowose MFR"></v-img>
 								<div class="card-body">
 									<h4 class="card-title">Mrs. Patricia Aruofor</h4>
 									<p class="card-text">Member, Board of Directors</p>
@@ -103,7 +106,8 @@
 								</div>
 
 					<div class="card" style="width: 20rem;">
-							<img class="card-img-top img-thumbnail teamsize" src="/images/Team5.jpeg"  alt="Clement Anifowose MFR">
+				<v-img class="card-img-top img-thumbnail teamsize" src="/images/Team5.jpeg" 
+				:lazy-src="`/images/loading.gif`" alt="Clement Anifowose MFR"></v-img>
 							<div class="card-body">
 							  <h4 class="card-title">Clement Anifowose MFR</h4>
 							  <p class="card-text">MD/CEO</p>
@@ -111,7 +115,8 @@
 						  </div>
 					
 						  <div class="card" style="width: 20rem;">
-							<img class="card-img-top img-thumbnail teamsize" src="/images/team2.jpeg"  alt="Abdulqadir Mohammed Bello Esq">
+							<v-img class="card-img-top img-thumbnail teamsize" 
+							src="/images/team2.jpeg" :lazy-src="`/images/loading.gif`" alt="Abdulqadir Mohammed Bello Esq"></v-img>
 							<div class="card-body">
 							  <h4 class="card-title">Abdulqadir Mohammed Bello Esq</h4>
 							  <p class="card-text">Head of Corperate affairs</p>
@@ -119,7 +124,8 @@
 						  </div>
 
 						  <div class="card" style="width: 20rem;">
-								<img class="card-img-top img-thumbnail teamsize" src="/images/Team1.jpeg"  alt="Miss Tonia Erazua">
+			<v-img class="card-img-top img-thumbnail teamsize" src="/images/Team1.jpeg"
+			:lazy-src="`/images/loading.gif`"  alt="Miss Tonia Erazua"></v-img>
 								<div class="card-body">
 								  <h4 class="card-title">Miss Tonia Erazua</h4>
 								  <p class="card-text">Head of Human Resources and Customer relations</p>
@@ -128,7 +134,8 @@
 
 
 							  <div class="card" style="width: 20rem;">
-									<img class="card-img-top img-thumbnail teamsize" src="/images/Team3.jpeg"  alt="Kamara Umar">
+									<v-img class="card-img-top img-thumbnail teamsize" src="/images/Team3.jpeg" 
+									:lazy-src="`/images/loading.gif`" alt="Kamara Umar"></v-img>
 									<div class="card-body">
 									  <h4 class="card-title">Kamara Umar</h4>
 									  <p class="card-text">Head of Operations and Engineering</p>

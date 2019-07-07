@@ -1,7 +1,8 @@
 var staticCacheName = "pwa-n" + new Date().getTime();
 var filesToCache = [
-    '/offline',
+    
     '/',
+    '/offline',
     '/css/404.css',
     'https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons',
     'https://unpkg.com/nprogress@0.2.0/nprogress.css',
@@ -28,7 +29,6 @@ var filesToCache = [
     '/images/neigh-logo.jpeg',
     '/images/bg.png',
     '/images/bg1.jpg',
-    //other images for the system
     '/images/Team1.jpeg',
     '/images/Team2.jpeg',
     '/images/Team3.jpeg',
@@ -36,7 +36,6 @@ var filesToCache = [
     '/images/Team5.jpeg',
     '/images/Team6.jpeg',
 
-    //no 14 or 25
     '/images/project1.jpeg',
     '/images/project2.jpeg',
     '/images/project3.jpeg',

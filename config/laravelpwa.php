@@ -9,7 +9,7 @@ return [
         'background_color' => '#f9f4ad',
         'theme_color' => '#343a40',
         'display' => 'standalone',
-        'orientation'=> 'portrait',
+        'orientation'=> 'any',
         //added
         'description'=> 'A renewable energy project company that specialises in solar energy deployment.',
         'dir'=>'ltr',                
