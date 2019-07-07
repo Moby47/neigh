@@ -45,7 +45,7 @@
 						<hr>
 					<p><span class="fa fa-envelope-open mr-2 floater">
 
-					</span><a href="mailto:neighenergyltd@gmail.com" class="ml-3 color-black">neighenergyltd@gmail.com</a></p>
+					</span><a href="mailto:info@neighenergy.com.ng" class="ml-3 color-black">info@neighenergy.com.ng</a></p>
 				</div>
 			</div>
 			<div class="col-lg-7 mt-lg-0 mt-5">

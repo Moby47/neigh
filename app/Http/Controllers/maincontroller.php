@@ -37,7 +37,7 @@ class maincontroller extends Controller
             session(['mobile' => $mobile]);
             session(['message' => $message]);
          
-            Mail::to('neighenergyltd@gmail.com')->send(new Contact());
+            Mail::to('info@neighenergy.com.ng')->send(new Contact());
           //Mail::to('henryonyemaobi@gmail.com')->send(new Contact());
              //email notification 
              
