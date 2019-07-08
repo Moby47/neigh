@@ -92,7 +92,7 @@
 		:lazy-src="`/images/loading.gif`"></v-img>
 							<div class="card-body">
 							  <h4 class="card-title">Prince Adesegun Adefemi Adeshida</h4>
-							  <p class="card-text">chairman, Board of Directors</p>
+							  <p class="card-text">Chairman, Board of Directors</p>
 							</div>
 						  </div>
 
@@ -119,7 +119,7 @@
 							src="/images/team2.jpeg" :lazy-src="`/images/loading.gif`" alt="Abdulqadir Mohammed Bello Esq"></v-img>
 							<div class="card-body">
 							  <h4 class="card-title">Abdulqadir Mohammed Bello Esq</h4>
-							  <p class="card-text">Head of Corperate affairs</p>
+							  <p class="card-text">Head of Corporate Affairs</p>
 							</div>
 						  </div>
 
@@ -128,7 +128,7 @@
 			:lazy-src="`/images/loading.gif`"  alt="Miss Tonia Erazua"></v-img>
 								<div class="card-body">
 								  <h4 class="card-title">Miss Tonia Erazua</h4>
-								  <p class="card-text">Head of Human Resources and Customer relations</p>
+								  <p class="card-text">Head of Human Resources and Customer Relations</p>
 								</div>
 							  </div>
 
